@@ -6,6 +6,8 @@
 
   [![github](https://img.shields.io/badge/minishell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eingerjar/Minishell)  
   Shell 직접 만들어보는 프로젝트. 프로세스, 멀티프로세스, ipc 학습  
+  [![github](https://img.shields.io/badge/minirt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eingerjar/miniRT/tree/develop)  
+  ray tracing이론을 기반으로 3D도형들을 2D화면에 표현하고 카메라의 시점이나 3D물체를 이동할 수 있는 프로젝트  
   [![github](https://img.shields.io/badge/webserv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Webserver-42/webserv)   
   **nginx config**파일 문법과 유사한 config파일을 통해 webserver를 직접 구현. RFC를 준수, I/O multiplexing, CGI 학습   
   [![github](https://img.shields.io/badge/transcendence-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/42-ft-transcendence/repositories)  
